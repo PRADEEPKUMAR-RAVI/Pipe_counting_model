@@ -2,6 +2,9 @@
 
 A simple yet powerful system for detecting and counting pipes in **images** and **videos** using YOLO, FastAPI, and Streamlit.
 
+## Google Colab Link
+- https://colab.research.google.com/drive/1ZVthjNAaHzpvu-gdrCIdZ_sS_W48rBFv#scrollTo=zoEHmYnrHeTu
+
 ## 🌟 Features
 - Detect and count pipes in images  
 - Process videos with object tracking (no duplicate counts)  
